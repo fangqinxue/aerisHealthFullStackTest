@@ -32,3 +32,6 @@ npm run dev
 Stock is tracked per SKU for the lifetime of the mock session. Adding to the cart does not change the SKU stock shown on the page; it only reduces how many more units of that SKU the shopper can add. The Sand / Large SKU demonstrates the out-of-stock state.
 
 The mock service simulates a network exception for 10% of add-to-cart requests. When it occurs, the page displays an error without changing the cart count.
+
+### Demo
+<img src="image/question4.png" width="700">
