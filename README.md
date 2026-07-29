@@ -3,11 +3,11 @@ answer for coding assessment
 
 ## A/
 run MysticWave.py
-<img src="images/question1.png" width="700">
+<img src="image/question1.png" width="700">
 
 ## B/
 run CargoCraftFleet.py
-<img src="images/question2.png" width="700">
+<img src="image/question2.png" width="700">
 
 ## D/
 ### Aeris product detail page
