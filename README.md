@@ -17,6 +17,7 @@ A React + JavaScript implementation of the e-commerce product-detail coding test
 ### Run locally
 
 ```bash
+cd D
 npm install
 npm run dev
 ```
